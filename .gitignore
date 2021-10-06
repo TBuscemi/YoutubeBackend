@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+youTubeProject/youTubeProject/settings.py
+youTubeProject/youTubeProject/local_settings.py
